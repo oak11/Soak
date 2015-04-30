@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\adt-bundle-windows-x86_64-20140702\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-64e8f97bd4706aee6cfac41998ab715abbcf4cba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e72c536e5b9e2e8b1f3fb5cfeb87c81182a8dfde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-44481187c14a6bedacaa689f58936ee89e86840d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-2c5dad0cdc1f88004a8c0529cf9f07611e41bba3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-e98111db5e7766069487c1ef329e0a3c389d559a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-f7e862371ba3fd2f945b8e6face8ca4a03ec5249.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-da4037c36a3d53cff40634bb349f2faeb666349b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-bed365ea5724239a5bc7df3f3d319bcc7fc52e19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-2506796c84ca6e686fb32aa51202dbf0c2a3de7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-eb67a32870bc3bae8b770b7a92edc2a85ef9516d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-754a5195902c6dfd778cd47b9ec25577a5479df8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-b5f07040aa260312d4d56122e0bc86aa49d940dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-ea07e109820c8151963735844b37cbe44dd0c4e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-e4fe787cbfad7ef630c132f6fca7986423911fcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-06f5a016fce7505e7108449144233f314cbc10e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-8e81c2467a634875c170a739bfbaf310a47fa370.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-13b98ef8650676b9756af72bd54645d31ef9aca6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-d519dbb9473a970115f443a1c136ee1ed00ec791.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-3d85c2d199291e2918b403e8f590dd4c3d70ee03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-13c5df709d734e3161b5e6a1ffaa231419501fba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-28fbde830cfc1044e4d6541ab329ea95175baf36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-2059b72201db0b3ac9ee6abe3623f17103d455d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Shweta\AndroidStudioProjects\Soak\app\build\intermediates\pre-dexed\debug\classes-fc3d4f48be34f93fa0a7c18e793b454db7771e0e.jar" />
+    </item>
+
+</items>
