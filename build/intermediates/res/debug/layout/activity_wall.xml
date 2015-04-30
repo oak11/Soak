@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+
+
+
+    <Button
+        android:id="@+id/bGoing"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:text="GOING" />
+
+    <Button
+        android:id="@+id/bUndecided"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:text="UNDECIDED" />
+
+    <Button
+        android:id="@+id/bCreateEvent"
+
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:text="CREATE EVENT" />
+
+
+
+    <Button
+        android:id="@+id/bResponse"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:text="RESPONSE TO CREATED EVENTS" />
+
+    <Button
+        android:id="@+id/bLogout"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT" />
+
+
+
+</LinearLayout><!-- From: file:/C:/Users/Shweta/AndroidStudioProjects/Soak/app/src/main/res/layout/activity_wall.xml -->
