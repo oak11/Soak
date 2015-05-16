@@ -25,7 +25,8 @@ import  android.app.ProgressDialog;
 public class ServerRequests {
     ProgressDialog progressDialog;
     public static final int CONNECTION_TIMEOUT = 1000 * 15;
-    public static final String SERVER_ADDRESS = "http://sql1.000webhost.com/phpMyAdmin/main.php?token=b46141fb63a41cdfd8dc366cf0ccdadf";
+    public static final String SERVER_ADDRESS = "http://oak.web44.net/";
+    JSONParser jsonParser = new JSONParser();
 
     public ServerRequests(Context context) {
         progressDialog = new ProgressDialog(context);
@@ -66,12 +67,17 @@ public class ServerRequests {
             dataToSend.add(new BasicNameValuePair("username", user.username));
             dataToSend.add(new BasicNameValuePair("password", user.password));
             dataToSend.add(new BasicNameValuePair("age", user.age + ""));
+            dataToSend.add(new BasicNameValuePair("location", user.location ));
+            dataToSend.add(new BasicNameValuePair("interest", user.interest ));
+
+
 
             HttpParams httpRequestParams = getHttpRequestParams();
 
             HttpClient client = new DefaultHttpClient(httpRequestParams);
             HttpPost post = new HttpPost(SERVER_ADDRESS
                     + "Register.php");
+
 
             try {
                 post.setEntity(new UrlEncodedFormEntity(dataToSend));
@@ -123,23 +129,33 @@ public class ServerRequests {
                     CONNECTION_TIMEOUT);
 
             HttpClient client = new DefaultHttpClient(httpRequestParams);
-            HttpPost post = new HttpPost(SERVER_ADDRESS
-                    + "FetchUserData.php");
+            HttpPost post = new HttpPost(SERVER_ADDRESS);
+            /*JSONObject jObject = jsonParser.makeHttpRequest(SERVER_ADDRESS+"FetchUserData.php",
+                    "POST", dataToSend);
+            */
 
-            User returnedUser = null;
+            User returnedUser =null;
 
             try {
                 post.setEntity(new UrlEncodedFormEntity(dataToSend));
                 HttpResponse httpResponse = client.execute(post);
 
                 HttpEntity entity = httpResponse.getEntity();
-                String result = EntityUtils.toString(entity);
-                JSONObject jObject = new JSONObject(result);
+                java.lang.String result = EntityUtils.toString(entity);
+               JSONObject jObject = new JSONObject(result);
 
-                if (jObject.length() != 0){
+
+
+
+
+
+
+
+
+               if (jObject.length() != 0){
                     Log.v("happened", "2");
                     String name = jObject.getString("name");
-                    int age = jObject.getInt("age");
+                    String age = jObject.getString("age");
 
                     returnedUser = new User(name, age, user.username,user.password,user.location,user.interest);
                 }

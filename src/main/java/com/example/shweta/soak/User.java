@@ -6,9 +6,9 @@ package com.example.shweta.soak;
 public class User {
 
     String name, username, password,location,interest;
-    int age;
+    String age;
 
-    public User(String name, int age, String username, String password, String location,String interest) {
+    public User(String name, String age, String username, String password, String location,String interest) {
         this.name = name;
         this.age = age;
         this.username = username;
@@ -18,6 +18,6 @@ public class User {
     }
 
     public User(String username, String password) {
-        this("", -1, username, password,"","");
+        this("", "", username, password,"","");
     }
 }
